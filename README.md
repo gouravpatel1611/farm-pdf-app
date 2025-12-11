@@ -57,7 +57,7 @@ npm run dev
 
 🌐 Frontend Setup
 
-cd frontend
+cd frontend/farm-pdf-app
 
 npm install
 
