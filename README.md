@@ -46,12 +46,19 @@ The Farm Finance PDF App allows users to:
 
 
 🏁 Getting Started
+
 🛠 Backend Setup
+
 cd backend
+
 npm install
+
 npm run dev
 
 🌐 Frontend Setup
+
 cd frontend
+
 npm install
+
 npm start
