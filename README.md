@@ -63,3 +63,23 @@ cd frontend/farm-pdf-app
 npm install
 
 npm start
+
+
+
+
+## 📦 Libraries / Dependencies
+
+### **Backend (Node.js + Express)**
+| Library | Purpose |
+|---------|---------|
+| `express` | Web framework for routing and APIs |
+| `ejs` | Templating engine for PDF HTML templates |
+| `pdf-lib` or `puppeteer` | PDF generation from HTML templates |
+| `chart.js` | Creating charts for finance visualization |
+| `chartjs-node-canvas` | Render Chart.js charts to image buffer for PDF |
+| `moment` | Date formatting |
+| `path` / `fs` | File and path operations |
+| `multer` (optional) | File upload handling (if used) |
+
+
+
