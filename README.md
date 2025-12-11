@@ -77,9 +77,8 @@ npm start
 | `pdf-lib` or `puppeteer` | PDF generation from HTML templates |
 | `chart.js` | Creating charts for finance visualization |
 | `chartjs-node-canvas` | Render Chart.js charts to image buffer for PDF |
-| `moment` | Date formatting |
 | `path` / `fs` | File and path operations |
-| `multer` (optional) | File upload handling (if used) |
+
 
 
 
