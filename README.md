@@ -42,9 +42,6 @@ The Farm Finance PDF App allows users to:
 - Uses **fetch API** or direct form submission to send data to backend  
 - Clean, responsive UI with custom CSS  
 
----
-
-## 📂 Project Folder Structure
 
 
 
